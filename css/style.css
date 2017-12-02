@@ -99,7 +99,7 @@ input[type="submit"],a{
 }
 .w3_agileits_personal_card_grid{
 	padding:3em;
-	background:#fff;
+	background: #FAFAFA;
 }
 .wthree_personal_card_gridl {
     float: left;
@@ -149,7 +149,7 @@ input[type="submit"],a{
 	margin-bottom:1em;
 }
 .agileits_plans ul li{
-	font-size:14px;
+	font-size:15px;
 	color:#212121;
 	margin-bottom:1em;
 	list-style-type:circle;

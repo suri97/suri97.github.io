@@ -52,17 +52,18 @@ body a:hover,body a{
 /*-- main --*/
 .agileits_copyright{
 	text-align: center;
-	margin:5em 0 0;
+	margin:3em 0 0;
 }
 .agileits_copyright p{
-	font-size: 1em;
+	font-size: 1.8em;
     color:#fff;
     line-height: 1.8em;
     padding: 0 1em;
     text-transform: capitalize;
 }
 .agileits_copyright p a {
-    color:#fff883;
+    color:#ccc;
+	padding: 0.2em;
     text-decoration: none;
 }
 .agileits_copyright p a:hover{

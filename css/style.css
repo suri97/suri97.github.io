@@ -347,6 +347,14 @@ input[type="submit"],a{
 	.agileits_w3layouts_main_grid_right {
 		min-height: auto;
 	}
+    .wthree_personal_card_gridl {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .wthree_personal_card_gridl img {
+        width: auto;
+    }
 }
 @media (max-width: 480px){
 	.main h1 {
@@ -358,6 +366,7 @@ input[type="submit"],a{
 	.agileits_copyright {
 		margin: 2em 0 0;
 	}
+
 }
 @media (max-width: 414px){
 	.main h1 {
@@ -366,14 +375,8 @@ input[type="submit"],a{
 	.main {
 		padding: 2em 0;
 	}
-	.wthree_personal_card_gridl {
-		width: 25%;
-	}
-	.wthree_personal_card_gridl img{
-		width:100%;
-	}
 	.agileits_copyright p {
-		font-size: 14px;
+		font-size: 1.5em;
 	}
 }
 @media (max-width: 384px){
@@ -399,14 +402,6 @@ input[type="submit"],a{
 	.main h1 {
 		font-size: 1.4em;
 		letter-spacing: 0px;
-	}
-	.wthree_personal_card_gridl {
-		width: 100%;
-		float: none;
-		text-align: center;
-	}
-	.wthree_personal_card_gridl img {
-		width: auto;
 	}
 	.wthree_personal_card_gridr {
 		margin: 1em 0 0;

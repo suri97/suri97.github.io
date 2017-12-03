@@ -244,6 +244,9 @@ input[type="submit"],a{
 	.agileits_w3layouts_main_grid_right {
 		min-height: 464px;
 	}
+    .w3_agileits_personal_card_grid {
+        padding: 3.63em;
+    }
 }
 @media (max-width: 1280px){
 	.w3_agile_main_grids {
@@ -263,7 +266,7 @@ input[type="submit"],a{
 }
 @media (max-width: 1024px){
 	.w3_agileits_personal_card_grid {
-		padding: 2em;
+		padding: 2.8em;
 	}
 	.agileits_w3layouts_main_grid_right {
 		min-height: 432px;
@@ -292,7 +295,7 @@ input[type="submit"],a{
 }
 @media (max-width: 768px){
 	.w3_agileits_personal_card_grid {
-		padding: 2em 1.5em;
+		padding: 2.8em 1.5em;
 	}
 }
 @media (max-width: 736px){
@@ -355,6 +358,14 @@ input[type="submit"],a{
     .wthree_personal_card_gridl img {
         width: auto;
     }
+    .wthree_personal_card_gridr {
+        margin: 1em 0 0;
+        float: none;
+        text-align: center;
+    }
+    .agileinfo_personal_text {
+        text-align: center;
+    }
 }
 @media (max-width: 480px){
 	.main h1 {
@@ -409,7 +420,7 @@ input[type="submit"],a{
 		text-align: center;
 	}
 	.wthree_personal_card_gridr p,.agileinfo_personal_text p {
-		font-size: 13px;
+		font-size: 12px;
 	}
 	.agileinfo_personal_text {
 		margin: .5em 0 1em;
